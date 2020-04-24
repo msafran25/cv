@@ -1,0 +1,162 @@
+body {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: 0px;
+}
+.top-container {
+    background-color: rgba(193, 235, 245, 0.465);
+}
+.heading-name {
+    color: rgb(119, 240, 228);
+    font-family: 'Sacramento', cursive;
+    margin: 80px auto 0 40px;
+    font-size: 5.1em ;
+    line-height: 100px;
+    
+}
+
+
+.mountain {
+    width: 700px;
+    height: 400px;
+}
+.cloud {
+    width: 130px;
+    position: absolute;
+    right: 300px;
+    margin-top: 10px;
+
+}
+span {
+    text-decoration: underline;
+}
+.cloud-2 {
+        width: 130px;
+        position: absolute;
+        left: 300px;
+        margin-bottom: 20px;
+       
+}
+.profile-pic {
+        border-radius: 100px;
+        margin-top: 50px;
+        width: 10%;
+}
+.check-list {
+    margin-right:  20px;
+    padding: 0px;
+    width: 30%;
+   float: left;
+
+}
+.poker-cards {
+    margin:45px 0px 0px 20px;
+    padding: 0px;
+    width: 50%;
+    float: right;
+}
+.contact-pic {
+    background-color: white;
+    width: 150px;
+    height: 120px;
+    border-radius: 30px;
+}
+
+h2 {
+    color: rgb(119, 240, 228);
+}
+.middle-container {
+    background-color: rgba(193, 235, 245, 0.465);
+}
+
+.skill-row {
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+    line-height: 25px;
+    
+}
+
+.skill-dis {
+    margin: 0px;
+}
+
+.hobbeis {
+    width: 50%;
+    margin: 100px 0px 100px auto;
+    text-align: right;
+
+}
+
+ul {
+    color: rgb(7, 61, 73);;
+    text-align: left;
+    list-style-type: none;
+    margin: 16px 0px 0px 10px;
+    padding: 0px;
+}
+.cloud-3 {
+    width: 10%;
+    position: absolute;
+    left:200px ;
+    margin-top: 100px;
+}
+.p-1 {
+    color: rgb(7, 61, 73);
+}
+.p {
+    color: rgb(7, 61, 73);;
+}
+.hr-1 {
+    border-top: dotted 6px rgb(186, 213, 221);
+    border-bottom: none;
+    width: 3%;
+    margin: 50px auto 50px auto; 
+}
+.hr-2 {
+    border-top: dotted 6px rgb(186, 213, 221);
+    border-bottom: none;
+    width: 3%;
+    margin: 50px auto 50px auto; 
+}
+.btn {
+    background-color:  #4f3961;
+    border-radius: 5px;
+   width: 9.4%;
+   margin-left: 600px;
+   margin-bottom: 20px;
+
+}
+.btn-c {
+    font-family:sans-serif;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: white;
+}
+.btn :hover {
+    background-color: rgba(30, 51, 56, 0.465);
+    border-radius: 5px;
+}
+.hello {
+    color: rgb(7, 61, 73);
+}
+.bottom-container {
+    background-color: #72b5b7;
+    padding: 20px 0px 20px 0px; 
+}
+
+.contact-me {
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+.copy-right {
+    color: rgb(255, 255, 255);
+    font-family:Helvetica;
+    font-size: 1.1em;
+}
+.footer-link {
+       font-family: sans-serif;     
+       color: rgb(240, 240, 240);
+       margin: 10px;
+       text-decoration: none;
+}
